@@ -1,6 +1,6 @@
-## Hi there 👋, I'm Alden DeMello.
+### Hi there 👋, I'm Alden DeMello.
 
-## About Me
+# About Me
 I am first year Computing student at Queen's University.
 
 ![Alden DeMello's github stats](https://github-readme-stats.vercel.app/api?username=aldendemello&theme=algolia&hide=contribs,prs)
