@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Alden DeMello
 
 #### About Me
-I am a Computer Science student at Queen's University.
+I am a Computer Science student at Queen's University, specializing in Software Design.
 
 <!--![Alden DeMello's github stats](https://github-readme-stats.vercel.app/api?username=aldendemello&theme=algolia&hide=contribs,prs)-->
 
