@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Alden DeMello.
-
+A first year Computing student at Queen's University.
 <!--
 **aldendemello/aldendemello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
