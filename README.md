@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Alden DeMello.
+# Hi there 👋, I'm Alden DeMello
 
 #### About Me
 I am first year Computing student at Queen's University.
